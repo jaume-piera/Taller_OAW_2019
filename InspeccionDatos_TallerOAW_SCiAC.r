@@ -89,6 +89,8 @@ sd(bd_correcta_transpose$BOYACA, na.rm = T)
 
 boxplot(bd_correcta_transpose)
 
+# test comentario
+
 
 
 
